@@ -6,8 +6,8 @@ version = '0.3'
 setup(name='collective.portlet.collectionbysubject',
       version=version,
       description="Portlet that groups collection items by subject",
-      long_description=open("README.txt").read() + "\n" +
-                       open("HISTORY.txt").read(),
+      long_description=open("README.rst").read() + "\n" +
+                       open("HISTORY.rst").read(),
       # Get more strings from http://www.python.org/pypi?%3Aaction=list_classifiers
       classifiers=[
         "Framework :: Plone",
