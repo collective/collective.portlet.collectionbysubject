@@ -19,10 +19,14 @@ Click "manage portlets" and add a new "Collection by subject".
 
 Settings include:
 
-Portlet header - the title of the portlet
-Target collection - the collection that the portlet will use
-Group by - the subject that you would like to group the items by
-Cache duration - the lenghth of time the results should be cached
+Portlet header
+  the title of the portlet
+Target collection
+  the collection that the portlet will use
+Group by
+  the subject that you would like to group the items by
+Cache duration
+  the length of time the results should be cached
 
 The output looks similar to this::
 
